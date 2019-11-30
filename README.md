@@ -3,9 +3,9 @@
 (under Department of ISE, Ramaiah Institute of Technology)
 
 
-USN          : 1MS17IS036
+USN          : 1MS17IS028
 
-Name         : BHUSHAN G Y
+Name         : Ashay Clinton Fernandes
 
 Section      : 5A
 
