@@ -133,3 +133,22 @@ Submitted to : Dr. Mydhili K Nair (Faculty Coordinator)
     ● Using Javascript - Loading JSON data dynamically on the client side. 
     
  ## Screenshots ##
+ ### part A ###
+ ![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/Screenshot%20(24).png)
+ ![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/Screenshot%20(26).png)
+ ![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/Screenshot%20(27).png)
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/Screenshot%20(28).png)
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/Screenshot%20(30).png)
+
+### PART B ###
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/PARTB/Screenshot%20(31).png)
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/PARTB/Screenshot%20(32).png)
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/PARTB/Screenshot%20(33).png)
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/PARTB/Screenshot%20(34).png)
+
+### DATA SCIENCE ###
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/PARTB/data/Screenshot%20(35).png)
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/PARTB/data/Screenshot%20(36).png)
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/PARTB/data/Screenshot%20(37).png)
+
+
