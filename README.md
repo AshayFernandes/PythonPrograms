@@ -151,4 +151,9 @@ Submitted to : Dr. Mydhili K Nair (Faculty Coordinator)
 ![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/PARTB/data/Screenshot%20(36).png)
 ![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/PARTB/data/Screenshot%20(37).png)
 
+### ASSIGNMENT ###
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/Screenshot%20(38).png)
+![alt atg](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/Screenshot%20(39).png)
 
+### flask ###
+![alt tag](https://github.com/AshayFernandes/PythonPrograms/blob/master/parta%20pic/Screenshot%20(40).png)
