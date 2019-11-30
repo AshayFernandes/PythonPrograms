@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Simple program to apply json to </title>
+</head>
+<body>
+	<p id="first">this is a simple text</p>
+	<p id="second">this is the second text</p>
+
+<script type="text/javascript">
+	
+	var obj={
+	 'name':['Arial','Georgia','Impact'],
+	 'color':['red','yellow','green']
+
+}
+
+var tag=document.getElementById('first');
+var tag1=document.getElementById('second');
+
+tag.style.fontFamily=obj['name'][0];
+tag.style.color=obj['color'][2];
+
+tag1.style.fontFamily=obj['name'][1];
+tag1.style.color=obj['color'][0];
+
+
+</script>
+</body>
+</html>
